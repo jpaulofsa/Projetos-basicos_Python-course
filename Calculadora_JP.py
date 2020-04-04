@@ -24,8 +24,4 @@ elif opcao == 4:
         print("%s / %s =" %(n1, n2), n1/n2)
 else:
     print("\nOpção Inválida!")
-
-"""try:
-    n1 / n2
-except TypeError:
-    print("ATENÇÃO: Divisão não permitida!!!")"""
+    
